@@ -115,9 +115,16 @@
   /></a>
 </p>
 
-- 💬 Ask me about **react,firebase,websocket,webrtc** - 📫 How to reach me
-**shubhamchat224122@gmail.com** - ⚡ Fun fact **I really like playing chess and
-cricket.** ### Blogs posts
+<div>
+  <ul>
+    <li>- 💬 Ask me about **react,firebase,websocket,webrtc** -</li>
+    <li>📫 How to reach me **shubhamchat224122@gmail.com** -</li>
+    <li>
+      ⚡ Fun fact **I really like playing chess and cricket.** ### Blogs posts
+    </li>
+  </ul>
+</div>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
