@@ -74,7 +74,7 @@
 <hr /> 
 
 <h1> </h1>
-<div>
+<div text-align="center">
   <ul>
     <li>💬 Ask me about =><span style="color:royalblue">React ,Firebase ,WebSocket ,WebRTC </span>-</li>
     <li>📫 How to reach me =><span style="color: royalblue;">shubhamchat224122@gmail.com</span> -</li>
