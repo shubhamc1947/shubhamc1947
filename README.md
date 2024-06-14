@@ -132,13 +132,7 @@
   />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&show_icons=true&locale=en"
-    alt="shubhamc1947"
-  />
-</p>
+
 
 <p>
   <img
