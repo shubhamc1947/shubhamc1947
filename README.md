@@ -117,10 +117,9 @@
 
 <div>
   <ul>
-    <li>- 💬 Ask me about **react,firebase,websocket,webrtc** -</li>
-    <li>📫 How to reach me **shubhamchat224122@gmail.com** -</li>
-    <li>
-      ⚡ Fun fact **I really like playing chess and cricket.** ### Blogs posts
+    <li>💬 Ask me about <span style="color:royalblue">react,firebase,websocket,webrtc </span>-</li>
+    <li>📫 How to reach me <span style="color: royalblue;">shubhamchat224122@gmail.com</span> -</li>
+    <li>⚡ Fun fact <span style="color: royalblue;">I really like playing chess and cricket.</span>
     </li>
   </ul>
 </div>
