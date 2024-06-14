@@ -1,23 +1,12 @@
-<head>
-<title>Banner Image</title>
-    <style>
-        .banner {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 80%;
-    </style>
-</head>
-<body>
+
 <h1>
   <img
     src="https://github.com/shubhamc1947/shubhamc1947/blob/main/hero.gif"
     alt="Banner"
-    class="banner"
+    class="banner" width="100%"
 />
 </h1>
 
-</body>
 </h1>
 
 <p align="right">
