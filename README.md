@@ -89,13 +89,15 @@
 <h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
 <br>
 <div align=center>
-  <img width=442  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&theme=dark&hide_border=false" alt="shubhamc1947" />
+  <img width=352  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shubhamc1947" />
 
-  <img width=402  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shubhamc1947" style="vertical-align: top;" />
+  <img width=278  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shubhamc1947" />
+
+  <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&theme=dark&hide_border=false" alt="shubhamc1947" style="vertical-align: top;" />
 <br>
-<img width=315 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shubhamc1947" />
-
+<h1></h1>
 </div>
+
 <hr/>
 
 <div align="center">
