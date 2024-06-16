@@ -94,21 +94,30 @@
   <img width=402  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shubhamc1947" style="vertical-align: top;" />
 <br>
 <img width=315 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shubhamc1947" />
-<h1></h1>
+
 </div>
 <hr/>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍 <br> <br/> </h2> 
+  <br>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+  
+  <br/>
+</div>
+
+
 <!-- ![snake gif](https://github.com/shubhamc1947/shubhamc1947/blob/output/github-contribution-grid-snake.svg) -->
