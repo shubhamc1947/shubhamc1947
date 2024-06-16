@@ -95,7 +95,6 @@
 
   <img width=412 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&theme=dark&hide_border=false" alt="shubhamc1947" style="vertical-align: top;" />
 <br>
-<h1></h1>
 </div>
 
 <hr/>
