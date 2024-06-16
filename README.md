@@ -1,20 +1,19 @@
 
-<h1>
-  <img
-    src="https://github.com/shubhamc1947/shubhamc1947/blob/main/hero.gif"
-    alt="Banner"
-    class="banner" width="100%"
-/>
-</h1>
-
-</h1>
+  <h1>
+    <img
+      src="https://i.pinimg.com/originals/45/2a/f3/452af39e8f2977f5b5b4e3d10c5475cb.gif"
+      alt="Banner"
+      class="banner"
+  />
+  </h1>
 
 <p align="right">
   <img
-    src="https://komarev.com/ghpvc/?username=shubhamc1947&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://visitcount.itsvg.in/api?id=shubhamc1947&icon=0&color=0"
     alt="shubhamc1947"
   />
 </p>
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Bold&size=35&duration=3000&pause=500&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Shubham"
@@ -29,8 +28,11 @@
 </h3>
 <hr />
 
-<div align="center">
-  😃 I’m currently learning <strong>Web Socket and Web RTC</strong>
+<div  align="center" style="font-weight: 400">
+        😃 I’m currently learning <strong>Web Socket and Web RTC</strong><br>
+        💬 Ask me about => <span style="color: royalblue;">React, Firebase, WebSocket, WebRTC</span><br>
+        ⚡ Fun fact => <span style="color: royalblue;">I really like playing chess and cricket.</span>
+    </div>
 </div>
 
 <h1> </h1>
@@ -43,10 +45,10 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
  </a>
  <a href="https://x.com/shubham_1947" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" target="_blank"/>
  </a> 
  <a href="https://dev.to/shubhamc1947" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"/>
+    <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" target="_blank"/>
  </a>
  <a href="https://www.codechef.com/users/shubham_1947" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank"/>
@@ -73,22 +75,12 @@
 <br />
 <hr /> 
 
-<h1> </h1>
-<div text-align="center">
-  <ul>
-    <li>💬 Ask me about =><span style="color:royalblue">React ,Firebase ,WebSocket ,WebRTC </span>-</li>
-    <li>📫 How to reach me =><span style="color: royalblue;">shubhamchat224122@gmail.com</span> -</li>
-    <li>⚡ Fun fact =><span style="color: royalblue;">I really like playing chess and cricket.</span>
-    </li>
-  </ul>
-</div>
-<hr/>
 
-<h1> </h1>
+
 <h1></h1>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamc1947" alt="shubhamc1947" />
+  <a href="https://github-profile-trophy.vercel.app/?username=shubhamc1947&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhamc1947&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=-1" alt="shubhamc1947" />
   </a>
 </p>
 <hr/>
@@ -97,11 +89,11 @@
 <h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
 <br>
 <div align=center>
-  <img width=412  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&" alt="shubhamc1947" />
+  <img width=452  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamc1947&theme=dark&hide_border=false" alt="shubhamc1947" />
 
-  <img width=390  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&show_icons=true&locale=en" alt="shubhamc1947" style="vertical-align: top;" />
+  <img width=412  src="https://github-readme-stats.vercel.app/api?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="shubhamc1947" style="vertical-align: top;" />
 <br>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamc1947&show_icons=true&locale=en&layout=compact" alt="shubhamc1947" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamc1947&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="shubhamc1947" />
 <h1></h1>
 </div>
 <hr/>
