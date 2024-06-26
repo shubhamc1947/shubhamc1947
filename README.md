@@ -1,7 +1,7 @@
 
   <h1>
     <img
-      src="https://github.com/shubhamc1947/shubhamc1947/blob/main/hero.gif"
+      src="https://github.com/shubhamc1947/shubhamc1947/blob/main/3.jpg"
       alt="Banner"
       class="banner" width="100%"
   />
@@ -29,13 +29,14 @@
 <hr />
 
 <div  align="center" style="font-weight: 400">
-        😃 I’m currently learning <strong>Web Socket and Web RTC</strong><br>
+         😃 I’m currently learning <strong>Web Socket and Web RTC</strong> <img src="https://github.com/shubhamc1947/shubhamc1947/blob/main/6.gif" width="40"><br>
         💬 Ask me about => <span style="color: royalblue;">React, Firebase, WebSocket, WebRTC</span><br>
         ⚡ Fun fact => <span style="color: royalblue;">I really like playing chess and cricket.</span>
     </div>
 </div>
 
 <h1> </h1>
+
 <div align="center">
     <h3> Connect with Me </h3>
   <a href="mailto:shubhamchat224122@gmail.com">
