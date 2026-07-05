@@ -1,31 +1,12 @@
-
-<div align="center">
-  <h2>My Contributions</h2> 
-  <br>
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
-      />
-      <img
-        alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
-      />
-    </picture>
-  
-  <br/>
-</div>
-
 <h1 align="center">Hi, I'm Shubham 👋</h1>
 <h3 align="center">Software Engineer | Scalable Backend Systems | Frontend Performance Expert</h3>
 
 <p align="center">
   <a href="mailto:shubhamchat224122@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://shu8h.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/shubhamchat03/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -42,7 +23,19 @@
 
 ### 🚀 Professional Summary
 
-I am a Software Engineer with **2+ years of experience** specializing in building high-performance backend systems and highly optimized frontend applications. Currently based in **Bengaluru**, I bridge the gap between complex distributed systems and pixel-perfect, accessible user interfaces.
+Full-stack engineer with **3+ years of experience** building production systems that handle **1M+ requests/day** — Go and Node.js backends, React/Next.js frontends, AWS infrastructure. Lately deep in LLM tooling: MCP servers, OAuth 2.1 for agent clients, and local-model workflows.
+
+---
+
+### 🔨 Featured Projects
+
+| Project | What it is |
+| :--- | :--- |
+| **[todo-mcp-server](https://github.com/shubhamc1947/todo-mcp-server)** | MCP server with a from-scratch OAuth 2.1 authorization server — dynamic client registration (RFC 7591), PKCE S256, audience-bound JWTs. Connect Claude to it end to end. |
+| **[safemap](https://github.com/shubhamc1947/safemap)** | Thread-safe sharded key-value store in Go — per-bucket RWMutexes, TTL, rate limiting, atomic metrics. |
+| **[balancerx](https://github.com/shubhamc1947/balancerx)** | Load balancer in Go with four routing strategies, active health checks, and a real-time dashboard. |
+| **[mock-excalidraw](https://github.com/shubhamc1947/mock-excalidraw)** | Collaborative whiteboard — turn-based edit locks, version history, role-based sharing. Next.js 16 + MongoDB, 125 tests. ([live](https://mock-excalidraw.vercel.app)) |
+| **[ProspectIQ](https://prospect-iq-one.vercel.app)** | Paste a company URL → AI-generated B2B sales-fit report with ICP scoring. |
 
 ---
 
@@ -75,3 +68,26 @@ I write about system design, frontend optimization, and software engineering bes
   </a>
 </p>
 
+---
+
+
+<div align="center">
+  <h2>My Contributions</h2> 
+  <br>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/shubhamc1947/shubhamc1947/output/github-contribution-grid-snake.svg"
+      />
+    </picture>
+  
+  <br/>
+</div>
