@@ -31,7 +31,7 @@ Backend engineer with **2+ years** building and running production systems on Go
 
 | Project | What it is |
 | :--- | :--- |
-| **[todo-mcp-server](https://github.com/shubhamc1947/todo-mcp-server)** | MCP server with a from-scratch OAuth 2.1 authorization server: dynamic client registration (RFC 7591), PKCE S256, audience-bound JWTs. Connect Claude to it end to end. |
+| **[Tokensmith](https://github.com/shubhamc1947/Tokensmith)** | MCP server with a from-scratch OAuth 2.1 authorization server: dynamic client registration (RFC 7591), PKCE S256, audience-bound JWTs. Connect Claude to it end to end. |
 | **[safemap](https://github.com/shubhamc1947/safemap)** | Thread-safe sharded key-value store in Go: per-bucket RWMutexes, TTL, rate limiting, atomic metrics. |
 | **[balancerx](https://github.com/shubhamc1947/balancerx)** | Load balancer in Go with four routing strategies, active health checks, and a real-time dashboard. |
 | **[mock-excalidraw](https://github.com/shubhamc1947/mock-excalidraw)** | Collaborative whiteboard with turn-based edit locks, version history, and role-based sharing. Next.js 16 + MongoDB, 125 tests. ([live](https://mock-excalidraw.vercel.app)) |
